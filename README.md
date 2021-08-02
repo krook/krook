@@ -4,7 +4,7 @@
 
 _July 30, 2021_
 
- [Official Website: krook.info](https://krook.info/)
+ [krook.info](https://krook.info/)
 
 Daniel Krook is a Software Engineer and Developer Advocate at IBM. He was a primary catalyst behind [Call for Code](https://developer.ibm.com/callforcode/), a multi-year initiative that inspires developers to create sustainable software solutions to the world's most pressing problems. As CTO, he ensures that those ideas are delivered where they can make the greatest impact.
 
@@ -20,4 +20,4 @@ He's filed dozens of patent applications, spoken at many conferences, and often 
 
 Mr. Krook graduated from [Trinity College (Hartford, CT)](https://www.trincoll.edu/) with a double major in Political Science and International Studies. He studied abroad in [Cuba](http://www.uh.cu/) and [South Africa](https://www.uct.ac.za/), holds dual USA-Finland/EU citizenship, and has collaborated with professional colleagues throughout the world.
  
- [Official Website: krook.info](https://krook.info/)
+ [krook.info](https://krook.info/)
