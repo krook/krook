@@ -1,6 +1,6 @@
 # Daniel Krook
 
-_July 30, 2021_
+_August 13, 2021_
 
  [krook.info](https://krook.info/)
 
